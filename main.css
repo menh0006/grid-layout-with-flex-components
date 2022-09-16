@@ -33,6 +33,9 @@ body {
     order: 2;
   }
 
+  .emoji .icon {
+    align-self: center;
+  }
   .emojis p {
     order: 2;
   }
