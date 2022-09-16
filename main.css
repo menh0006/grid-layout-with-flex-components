@@ -10,17 +10,6 @@ body {
     grid-template-rows: auto;
   }
 
-  .emojis :nth-child(1) a {
-    margin-top: 70px;
-  }
-
-  .emojis :nth-child(2) a {
-    margin-top: 50px;
-  }
-
-  .emojis :nth-child(4) a {
-    margin-top: 38px;
-    }
   .emoji {
     border: 1px solid #222;
     border-radius: 8px;
@@ -54,3 +43,15 @@ body {
   .icon {
     font-size: 4rem;
   }
+
+  .emojis :nth-child(1) a {
+    margin-top: 70px;
+  }
+
+  .emojis :nth-child(2) a {
+    margin-top: 50px;
+  }
+
+  .emojis :nth-child(4) a {
+    margin-top: 38px;
+    }
